@@ -1,2 +1,5 @@
-user 2 added text!?!?!
-another line added via branch1
+<ul>
+	<li>one</li>
+	<li>two</li>
+	<li>three</li>
+</ul>
