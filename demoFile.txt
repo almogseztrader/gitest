@@ -1,2 +1,2 @@
 user 2 added text!?!?!
-checking branches
+another line added via branch1
